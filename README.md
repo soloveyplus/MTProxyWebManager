@@ -19,7 +19,7 @@
 Работает без Docker
 
 📋 Требования
-VPS/VDS с Ubuntu 22.04
+VPS/VDS с Debian 12, Ubuntu 22.04
 
 Минимум 1 GB RAM
 
