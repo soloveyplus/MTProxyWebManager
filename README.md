@@ -26,3 +26,16 @@ VPS/VDS с Ubuntu 22.04
 Root доступ
 
 В проекте используется порт TCP 9443 для прокси. Его можно сменить на свой.
+
+Установка: 
+
+curl -sSL https://raw.githubusercontent.com/soloveyplus/mtproxy-web-manager/main/install.sh | sudo bash
+
+или
+
+wget -qO- https://raw.githubusercontent.com/soloveyplus/mtproxy-web-manager/main/install.sh | sudo bash
+
+
+
+
+
