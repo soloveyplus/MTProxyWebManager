@@ -29,11 +29,11 @@ Root доступ
 
 Установка: 
 
-curl -sSL https://raw.githubusercontent.com/soloveyplus/mtproxy-web-manager/main/install.sh | sudo bash
+curl -sSL https://github.com/soloveyplus/MTProxyWebManager/blob/main/install.sh | sudo bash
 
 или
 
-wget -qO- https://raw.githubusercontent.com/soloveyplus/mtproxy-web-manager/main/install.sh | sudo bash
+wget -qO- https://github.com/soloveyplus/MTProxyWebManager/blob/main/install.sh | sudo bash
 
 
 
