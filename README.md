@@ -35,7 +35,12 @@ curl -sSL https://github.com/soloveyplus/MTProxyWebManager/blob/main/install.sh 
 
 wget -qO- https://github.com/soloveyplus/MTProxyWebManager/blob/main/install.sh | sudo bash
 
+После установки
+Откройте браузер и перейдите по адресу:
 
+http://IP_ВАШЕГО_СЕРВЕРА:5000
+Данные для входа:
 
-
-
+Логин: admin
+Пароль: admin123
+⚠️ ВНИМАНИЕ! Сразу смените пароль администратора в веб-интерфейсе!
