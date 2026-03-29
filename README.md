@@ -29,11 +29,11 @@ Root доступ
 
 Установка: 
 
-curl -sSL https://github.com/soloveyplus/MTProxyWebManager/blob/main/install.sh | sudo bash
+curl -sSL https://raw.githubusercontent.com/soloveyplus/MTProxyWebManager/refs/heads/main/install.sh | sudo bash
 
 или
 
-wget -qO- https://github.com/soloveyplus/MTProxyWebManager/blob/main/install.sh | sudo bash
+wget -qO- https://raw.githubusercontent.com/soloveyplus/MTProxyWebManager/refs/heads/main/install.sh | sudo bash
 
 После установки
 Откройте браузер и перейдите по адресу:
